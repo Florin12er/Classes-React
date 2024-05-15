@@ -45,3 +45,4 @@
 ### it should be used for cleanups
 
 # Whatch the rest of the video : [video](https://www.youtube.com/watch?v=m_mtV4YaI8c) you were at minute 12:50
+# Read testing in React in Odin project
